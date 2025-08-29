@@ -1,0 +1,2 @@
+# AN-IMPLEMENTATION-OF-SOLAR-PV-ARRAY-BASED-MULTIFUNCTIONAL-EV-CHARGER
+This project implements a solar PV array-based multifunctional EV charger capable of operating in both grid-connected and standalone modes. It integrates solar power, grid supply, and battery storage with intelligent control strategies to ensure efficient power flow, reliable charging, and enhanced sustainability by reducing grid dependency.
